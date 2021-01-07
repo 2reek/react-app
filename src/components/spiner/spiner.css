@@ -13,8 +13,8 @@
 	position: absolute;
 	width: 67.75px;
 	height: 67.75px;
-	top: 101.625px;
-	left: 101.625px;
+	top: 45px;
+	left: 45px;
 	border-radius: 50%;
 	border: 2.71px solid #000;
 	border-color: #00bc8c transparent #00bc8c transparent;
@@ -48,10 +48,10 @@
 	box-shadow: 65.03999999999999px 0 0 0 #00bc8c;
 }
 .loadingio-spinner-dual-ring-waabiy1g7gg {
-	width: 271px;
-	height: 271px;
+	width: 150px;
+	height: 150px;
 	display: flex;
-
+	margin: 0 auto;
 	overflow: hidden;
 	/* background: #ffffff; */
 	opacity: 1;
@@ -67,8 +67,8 @@
 .ldio-eedzshwbcus div {
 	box-sizing: content-box;
 }
-.random-planet.jumbotron.rounded {
+/* .random-planet.jumbotron.rounded {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-}
+} */
